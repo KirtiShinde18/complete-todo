@@ -1,6 +1,7 @@
 """
 This is a Flask application.
 It starts a web server and
+
 returns a JSON response on the home route.
 """
 
