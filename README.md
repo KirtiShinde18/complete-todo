@@ -74,6 +74,7 @@ venv\Scripts\activate
 
 ```bash
 pip install flask
+pip install gunicorn
 ```
 
 ---
